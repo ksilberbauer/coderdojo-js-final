@@ -1,0 +1,15 @@
+- Remix my "TODO List"
+  -- review changes
+    * separate script file
+    * separated event handling from addTodo logic
+    * putting text in <span>
+- non-functioning DELETE buttons
+- delete logic
+- save todos
+  * names
+  * for loop
+  * join() -> allNames
+- load todos
+  * allNames
+  * split() -> names
+- <body> onload, onbeforeclose

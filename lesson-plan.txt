@@ -3,8 +3,7 @@
     * separate script file
     * separated event handling from addTodo logic
     * putting text in <span>
-- non-functioning DELETE buttons
-- delete logic
+    * DELETE buttons + "this"
 - save todos
   * names
   * for loop

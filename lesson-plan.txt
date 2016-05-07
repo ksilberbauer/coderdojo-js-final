@@ -8,7 +8,9 @@
   * names
   * for loop
   * join() -> allNames
+  * localStorage.setItem()
 - load todos
+  * localStorage.getItem()
   * allNames
   * split() -> names
 - <body> onload, onbeforeclose
